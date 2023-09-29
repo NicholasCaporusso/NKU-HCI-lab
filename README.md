@@ -15,3 +15,5 @@
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/1wvkbriSOu4/1.jpg)](http://www.youtube.com/watch?v=1wvkbriSOu4 "Introduction to Zotero")
 
 [![IMAGE ALT TEXT](https://img.youtube.com/vi/ujnkJ155R6A/1.jpg)](http://www.youtube.com/watch?v=ujnkJ155R6A "Introduction to Research Rabbit")
+
+[![IMAGE ALT TEXT](https://img.youtube.com/vi/nRz-MiPz8J8/0.jpg)](http://www.youtube.com/watch?v=nRz-MiPz8J8 "Introduction to GitHub")
